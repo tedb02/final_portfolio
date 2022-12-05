@@ -1,2 +1,2 @@
 # final_portfolio
-This is my final portfolio for COGS3. 
+https://github.com/tedb02/final_portfolio.git
